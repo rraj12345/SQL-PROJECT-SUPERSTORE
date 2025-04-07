@@ -1,7 +1,3 @@
-Here's a professional and detailed **README** file for your **Retail Sales Analysis Using SQL** project:
-
----
-
 # 📊 Retail Sales Analysis Using SQL
 
 ## 📁 Project Overview
